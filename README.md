@@ -19,7 +19,4 @@ To run the code, ensure you have the following libraries installed:
 - `pandas`
 - `matplotlib`
 
-You can install the required libraries using `pip`:
-
-```bash
-pip install numpy pandas matplotlib
+<img src="https://github.com/ayu-shiirathore/Topsis/blob/main/Screenshot%202025-01-19%20113036.png" alt="Sample Image" />
