@@ -19,4 +19,5 @@ To run the code, ensure you have the following libraries installed:
 - `pandas`
 - `matplotlib`
 
-<img src="https://github.com/ayu-shiirathore/Topsis/blob/main/Screenshot%202025-01-19%20113036.png" alt="Sample Image" />
+<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212220.png" alt="Sample Image" />
+<img src="https://github.com/ayu-shiirathore/Topsis-for-pretrained-models-of-text-generation/blob/main/Screenshot%202025-02-02%20212221.png" alt="Sample Image" />
